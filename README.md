@@ -3,6 +3,7 @@
 This project is a Weather Prediction System that predicts whether a specific weather condition will happen or not using Machine Learning algorithms.
 Through Exploratory Data Analysis (EDA), applying Logistic Regression (LG), and evaluating with different metrics, the model achieves an accuracy of 95% ✅.
 
+
 **📊 Project Overview**
 
 ✔️ Performed EDA to understand data patterns, correlations, and distributions.
@@ -12,6 +13,7 @@ Through Exploratory Data Analysis (EDA), applying Logistic Regression (LG), and 
 📈 Evaluated the model with performance metrics like Accuracy, Precision, Recall & F1-score.
 
 🌐 Provides reliable weather predictions with 95% accuracy.
+
 
 **⚙️ Technologies & Tools Used**
 
@@ -26,6 +28,7 @@ Through Exploratory Data Analysis (EDA), applying Logistic Regression (LG), and 
 📒 Jupyter Notebook / VS Code – Development environment
 
 🛠️ Git & GitHub – Version control
+
 
 **🚀 Steps Involved**
 
