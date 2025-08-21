@@ -44,8 +44,16 @@ Through Exploratory Data Analysis (EDA), applying Logistic Regression (LG), and 
 
 ✅ Prediction – Output whether the weather event will happen or not.
 
-📌 Results
+## 📌 Results
 
 Model Accuracy: 95% 🎯
 
 Reliable for binary weather prediction (event or no event).
+
+## 💡 Future Enhancements
+
+🔮 Implement advanced ML algorithms like Random Forest & XGBoost.
+
+🌐 Build a Flask/Django web app for real-time prediction.
+
+📱 Create a mobile app integration for live weather updates.
