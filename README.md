@@ -19,10 +19,15 @@ Through Exploratory Data Analysis (EDA), applying Logistic Regression (LG), and 
 Dataset: Custom or Public Weather Dataset (CSV)
 Features May Include:
 Temperature 🌡️
+
 Humidity 💧
+
 Wind Speed 💨
+
 Pressure 🌬️
+
 Rainfall 🌧️
+
 Target: Rain (Yes/No) or other categorical conditions
 
 
