@@ -16,8 +16,8 @@ Through Exploratory Data Analysis (EDA), applying Logistic Regression (LG), and 
 
 ## 📂 Dataset Information
 
-Dataset: Custom or Public Weather Dataset (CSV)
-Features May Include:
+**Dataset**: Custom or Public Weather Dataset (CSV)
+**Features May Include:**
 
 Temperature 🌡️
 
@@ -29,7 +29,7 @@ Pressure 🌬️
 
 Rainfall 🌧️
 
-Target: Rain (Yes/No) or other categorical conditions
+**Target**: Rain (Yes/No) or other categorical conditions
 
 
 ## ⚙️ Technologies & Tools Used
